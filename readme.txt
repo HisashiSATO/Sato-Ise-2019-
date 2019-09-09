@@ -1,4 +1,4 @@
-Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+***********************************************************************
 Brief description for files in this directory
 Witten by Dr. Hisashi SATO* on 9 September 2019
 
@@ -8,7 +8,7 @@ This folder contains data files those are emplyed by the anaysis in the Sato and
 Japan Agency for Marine-Earth Science and Technology (JAMSTEC),
 Yokohama, Japan
 hsatoscb@gmail.com
-Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°Å°
+***********************************************************************
 
 _____________________________________________
 
